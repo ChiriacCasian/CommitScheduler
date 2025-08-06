@@ -8,9 +8,9 @@
                                                                                      </pre>
 </div>
 
+## Video Demo:
 [![Demonstration](https://img.youtube.com/vi/nrcjAecDPLc/maxresdefault.jpg)](https://youtu.be/nrcjAecDPLc)
 
-## Video Demo:
 [//]: # (https://patorjk.com/software/taag/#p=display&f=Ivrit&t=Commi%20tScheduler)
 ## Features
 <hr>
